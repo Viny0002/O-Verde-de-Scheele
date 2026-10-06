@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "O Verde de Scheele",
+      "hasCanvas": false,
+      "bodyTextLen": 463,
+      "bodyTextHash": "1338b4a33dcb9b0cb6b118e69c97c03a48c0909045e57fc0241063d509a9f138",
+      "bodyTextPrefix": "Ir ao conteúdo QUÍMICA · ARTE · HISTÓRIA · ENSINO MÉDIO PASTA DI",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/cover-after.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "O Verde de Scheele",
+      "hasCanvas": false,
+      "bodyTextLen": 463,
+      "bodyTextHash": "1338b4a33dcb9b0cb6b118e69c97c03a48c0909045e57fc0241063d509a9f138",
+      "bodyTextPrefix": "Ir ao conteúdo QUÍMICA · ARTE · HISTÓRIA · ENSINO MÉDIO PASTA DI",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/cover-after-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/cover-after.json"
+}
